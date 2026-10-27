@@ -1,16 +1,31 @@
 {
-  "name": "Bloom – At-home workouts",
-  "short_name": "Bloom",
-  "description": "Your 5-day at-home workout plan with timers and progress tracking.",
+  "name": "FitBloom",
+  "short_name": "FitBloom",
+  "description": "5-day at-home workout plan with how-to animations, timers and a weight tracker.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#FFF4F6",
-  "theme_color": "#D6336C",
+  "background_color": "#0E0F12",
+  "theme_color": "#0E0F12",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
